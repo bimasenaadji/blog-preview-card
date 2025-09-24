@@ -36,6 +36,8 @@ body {
   padding: 24px;
   background-color: var(--clr-surface);
   border-radius: 20px;
+  border: solid 1px black;
+  box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
 }
 
 .card__body {
